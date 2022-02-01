@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 """
 Filter the results of munki's MANAGED_INSTALL_REPORT.plist
 to these items: 'EndTime', 'StartTime', 'ManifestName', 'ManagedInstallVersion'
